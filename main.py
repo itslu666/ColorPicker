@@ -1,5 +1,5 @@
 import customtkinter as ctk
-import CTkColorPicker
+import ctk_color_picker_widget as CTkColorPicker
 
 root = ctk.CTk()
 
